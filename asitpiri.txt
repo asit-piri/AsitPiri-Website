@@ -1,0 +1,309 @@
+ASIT PIRI
+Enterprise AI Strategy | Generative & Agentic AI Platforms | Quantum–AI Architecture
+To secure a Principal/Chief Data Scientist/AI Architect role, leading the design, architecture & scaling of
+production-grade Generative and Agentic AI platforms, driving enterprise transformation, automation, and
+measurable business impact, while aligning AI innovation with long-term strategic and commercial objectives.
++91 9538933669
+asit.piri@gmail.com
+https://www.linkedin.com/in/asit-piri/
+EDUCATION
+●
+Indian Institute of Science (IISc) –
+PG Level Advanced Certification in Deep
+Learning & Computational Data Science
+(2023–2025)
+●
+Executive MBA – Institute of Product
+Leadership (2020–2023)
+●
+Executive PGDM – Business Analytics
+& Strategy
+●
+UX Design Certification – Interaction
+Design Foundation
+TECHNICAL SKILLS
+●
+●
+●
+●
+●
+●
+●
+●
+●
+●
+AI/ML & Advanced AI: Generative
+AI, Agentic AI, Graph-RAG, Deep
+Learning, NLP, Transformer
+Architectures, Reinforcement Learning
+LLMOps & AI Governance: Model
+Evaluation & Benchmarking, Prompt
+Engineering, Fine-tuning, RAG
+Pipelines, Responsible AI, AI Lifecycle
+Management
+Cloud & Multi-Cloud AI Platforms:
+AWS (Bedrock, SageMaker), Azure
+(Azure ML), GCP (Vertex AI), Hugging
+Face Ecosystem
+Data Engineering & Big Data:
+Apache Spark, Hadoop, Data Pipelines,
+ETL/ELT, Distributed Data Processing
+Databases & Storage: Graph
+Databases: Neo4j, Vector Databases:
+FAISS, Pinecone, Weaviate, Relational
+Databases: PostgreSQL, MySQL,
+NoSQL: MongoDB
+Backend & API Development:
+Python, FastAPI, REST APIs,
+Microservices Architecture
+Frontend & Full-Stack: React.js,
+Next.js, Streamlit
+AI Architecture & Systems Design:
+Multi-Agent Systems (A2A), MCP
+Frameworks, Scalable AI Platforms,
+Enterprise AI Architecture
+Quantum Computing & Advanced
+Modeling: Quantum–Classical Hybrid
+Models, VQE/HHL, Qiskit
+MLOps & Tooling: MLflow,
+Prometheus, Docker, CI/CD Pipeline
+CORE COMPETENCIES
+Enterprise AI Strategy & Transformation | AI Platform Architecture & Multi-Cloud Optimization
+Generative AI & Agentic AI Engineering | Multi-Agent Systems & Orchestration Frameworks
+AI Governance, Risk & Responsible AI | Responsible AI & Guardrail Strategy (LLMs & Agents)
+Knowledge Base and Knowledge Graph | Enterprise Data Platforms & Knowledge Graph Ecosystems
+AI Program Portfolio Management | Global AI Capability Building & Engineering Leadership
+Quantum–AI Hybrid Architecture | AI Monetization & Platform Commercialization
+PROFILE SUMMARY
+●
+Visionary Enterprise AI Strategist and Quantum-AI Architect with 25+ years of experience
+driving large-scale data, cloud, and AI transformations into revenue-generating,
+production-grade platforms.
+●
+Proven expertise in translating advanced research (Generative AI, Agentic AI, Graph-RAG,
+Quantum–Classical systems) into scalable enterprise solutions with measurable business
+impact.
+●
+Architect of multi-cloud AI platforms and AI governance frameworks, delivering 30%+
+latency improvement, 28%+ cost efficiency, and securing $1.8M+ strategic investments.
+●
+Global leader in building high-performing AI teams and establishing LLMOps, Responsible AI,
+and enterprise AI adoption frameworks across geographies.
+●
+Combines deep technical authority with executive business acumen to drive AI
+monetization, platform scalability, and long-term strategic advantage.
+WORK EXPERIENCE
+Career Transition & Internship – Principal Data Scientist (Full-Stack AI Builder)
+Bengaluru, India (Remote) | Mar 2026 – Till date
+AutoFounder AI: startup idea → validates it → builds MVP → launches it to Market
+●
+Architected and launched AutoFounder AI (0→1 product), an autonomous multi-agent
+platform automating the full software lifecycle from idea validation to market launch.
+●
+Engineered a collaborative A2A (Agent-to-Agent) system using shared contextual memory,
+integrating Validator, Architect, Coder, and Marketer agents for end-to-end business automation.
+●
+Developed an autonomous self-healing MVP engine that generates production-grade stacks
+(Next.js/FastAPI) with automated Docker testing, reducing development time from weeks to minutes.
+●
+Built a scalable multi-tenant SaaS infrastructure on AWS (EKS, RDS, S3), implementing
+secure tenant isolation and SQS-driven dynamic orchestration for high-concurrency agent workflows.
+●
+Established advanced LLMOps and CI/CD pipelines using RLHF and GitHub Actions, improving
+code quality by 25% and achieving zero-downtime continuous delivery.
+●
+Implemented deep observability and governance via Prometheus and Grafana, tracking LLM
+performance (token usage, latency, hallucination rates) and business KPIs for 100% system
+transparency.
+Knovera: Enterprise Knowledge Discovery in the Age of Generative AI
+●
+Architected and deployed an enterprise-grade RAG platform (Gemini + Pinecone), integrating
+high-performance embedding pipelines to deliver grounded, context-aware AI responses.
+●
+Engineered a policy-driven API governance framework with YAML-based hot-reloading,
+enabling real-time system configuration and behavioral control with zero downtime.
+●
+Implemented "security-by-design" protocols, including prompt injection defenses, automated
+PII redaction, and robust authentication for compliant enterprise AI operations.
+NOTABLE HIGHLIGHTS
+●
+Led end-to-end enterprise AI
+platform strategy (0→production),
+delivering 40% operational
+efficiency gains and reducing
+document processing time by 10
+hrs/week via multimodal automation.
+●
+Architected multi-agent Agentic
+RAG & Graph-RAG ecosystems,
+expanding automation by 50% and
+improving contextual accuracy by
+35%.
+●
+Designed enterprise AI workflows &
+knowledge retrieval pipelines,
+increasing automation coverage by
+40% and boosting response accuracy
+by 35%.
+●
+Established AI governance &
+lifecycle frameworks, reducing
+deployment risk by 20% and
+improving compliance readiness by
+50%.
+●
+Led hybrid cloud & data
+modernisation (HPE GreenLake,
+PADL), cutting over-provisioning by
+40%, improving reliability by 35%,
+enabling 75% faster deployments
+and 25% higher productivity.
+●
+Delivered digital healthcare &
+finance platforms (E-Sushrut HIS,
+ITAS), reducing wait times by 50%,
+achieving 100% coding accuracy,
+improving financial accuracy by 80%,
+and reducing payment cycles by 50%.
+CERTIFICATIONS
+●
+Learning Digital Painting
+●
+Creative & Design Thinking
+●
+20 Habits of Executive Leadership
+●
+Developing Executive Presence
+●
+The Three Pillars of Effective
+Leadership by Jeff Weiner
+●
+Goal Setting: Objectives & Key Results
+●
+Creating a Product-Centric Organization
+●
+Successful Negotiation: Essential
+Strategies and Skills
+●
+What to Do in the First 90 Days of Your
+New Job
+PERSONAL DETAILS
+●
+Date of Birth: 13th Jan 1974
+●
+Languages: English, Hindi
+●
+Location: Bengaluru, Karnataka, India
+●
+Designed a resilient, high-availability architecture utilizing queue-based processing, intelligent
+caching, and multi-region failover to manage concurrent workloads at scale.
+●
+Established deep observability and monitoring via Prometheus and CloudWatch, implementing
+structured logging and custom metrics to accelerate incident resolution and system health tracking.
+●
+Automated full-stack CI/CD and IaC pipelines using Terraform, GitHub Actions, and AWS ECS,
+streamlining deployments with integrated security scanning and fail-safe rollback mechanisms.
+NaviOwl – Principal Data Scientist (Full-Stack AI Builder)
+Markham, Canada (Remote) | Feb 2026 – Mar 2026
+NaviOwl 2.0 & CareGraph Platform
+●
+Led end-to-end architecture of an enterprise AI orchestration platform (MCP-based)
+enabling modular, scalable AI deployment.
+●
+Designed multi-agent (A2A) reasoning systems and Graph-RAG pipelines (Neo4j + vector
+DBs) to improve contextual retrieval and decision intelligence.
+●
+Established LLMOps governance frameworks covering benchmarking, evaluation, cost
+optimisation, and lifecycle controls.
+●
+Built enterprise-grade AI applications (CareGraph) for healthcare, legal, and research use cases
+using React, FastAPI, and graph/vector architectures.
+●
+Scaled platform from MVP to multi-tenant enterprise architecture, embedding Responsible AI
+(explainability, auditability, governance readiness).
+●
+Partnered with leadership on AI strategy, monetization, and platform scalability.
+Zero State Inc.
+– Principal Data Scientist (Full-Stack Quantum AI Builder)
+Phoenix, USA (Remote) | Jan 2026 – Jan 2026
+Quantum-AI Platforms (Healthcare & Molecular Intelligence)
+●
+Built a quantum–AI early cancer detection framework (0→MVP) targeting pre-mutational
+signal identification.
+●
+Architected hybrid quantum–classical models (VQE/HHL-inspired) with validation on real
+quantum hardware (2–4 qubits).
+●
+Modeled p53 mutation hotspots using structural biology and computational analysis.
+●
+Co-developed a molecular intelligence platform for protein–compound interaction ranking using
+vectorised search architectures.
+ESCRIBA – Lead Data Scientist & AI Engineering Lead
+Bengaluru, India | Jul 2023 – Dec 2025
+ECAP Document Automation Platforms (Human Resource & Legal Document Intelligence)
+●
+Built and scaled enterprise AI function (0→10 engineers, global team) and delivered 10+ AI
+programs.
+●
+Led multi-cloud LLM benchmarking (AWS, Azure, GCP, Hugging Face) achieving 32%
+latency reduction, 28% cost savings, 37% performance gains.
+●
+Engineered domain-specific LLMs (1M+ documents) achieving 92% Q&A accuracy and
+reducing legal workload by 50%.
+●
+Designed and deployed 8+ Generative AI applications; secured $1.8M+ in AI investments.
+●
+Pioneered Graph-RAG + multi-agent systems, improving retrieval accuracy by 38% and
+reducing errors by 47%.
+DocMiner RAG Platform
+●
+Led end-to-end architecture of an enterprise AI orchestration platform (MCP-based)
+enabling modular, scalable AI deployment.
+●
+Architected and designed multi-agent (A2A) reasoning systems and Graph-RAG pipelines
+(Neo4j + vector DBs) to improve contextual retrieval and decision intelligence.
+●
+Established LLMOps governance frameworks covering benchmarking, evaluation, cost
+optimisation, and lifecycle controls.
+●
+Established LLMOps governance frameworks including model benchmarking, evaluation metrics,
+cost optimisation controls, and AI lifecycle standards.
+●
+●
+●
+●
+●
+●
+Built enterprise-grade AI applications (LegalGraph) for hr, legal, and research use cases using
+React, FastAPI, and graph/vector architectures.
+Scaled platform from MVP to multi-tenant enterprise architecture, embedding Responsible AI
+(explainability, auditability, governance readiness).
+Partnered with leadership on AI strategy, monetization, and platform scalability.
+Established Responsible AI controls including explainability, auditability, and governance
+readiness for regulated industry adoption.
+Aligned AI engineering execution with product monetisation strategy and enterprise value
+creation roadmap.
+Advised executive stakeholders on AI adoption strategy, risk mitigation frameworks, and
+long-term platform sustainability.
+Hewlett Packard Enterprise (HPE) | Bengaluru, India | Dec 2010 – Sep 2020
+As Engineering Program Manager – HPE GreenLake (2019–2020)
+●
+Led hybrid cloud platform programs, delivering 75% faster deployments, 85% downtime
+reduction, and 40% productivity gains.
+As Senior Data Engineer / Data Architect (2010–2018)
+●
+Delivered enterprise data platforms & governance frameworks, improving data reliability
+(35%) and reducing infra over-provisioning (40%).
+PREVIOUS EXPERIENCE
+Capgemini – Senior Consultant V / Data Architect | Bengaluru, India | Sep 2008 – Dec 2010
+HCL Technologies – Data Analytics Lead | Noida, India | Jul 2007 – Sep 2008
+C-DAC, Noida – Project Associate (Senior Software Developer) | Jun 2004 – Jul 2007
+SQL Star International – Software Engineer | Sep 2003 – May 2004
+ER&DCI – Project Associate (Software Developer) | Jun 2000 – Sep 2003
+
+
+
+
+https://github.com/asit-piri
+
+https://www.linkedin.com/in/asit-piri/
