@@ -62,7 +62,7 @@ export default function Hero() {
       <div className="relative z-10 max-w-7xl mx-auto px-4 sm:px-6 lg:px-8 py-24 lg:py-32">
         <div className="grid lg:grid-cols-2 gap-12 lg:gap-16 items-center">
           {/* ── Left: Content ── */}
-          <div className="order-2 lg:order-1 space-y-6 animate-fade-in">
+          <div className="order-1 space-y-6 animate-fade-in relative z-10">
             {/* Open to work badge */}
             <div className="inline-flex items-center gap-2 px-4 py-2 rounded-full bg-emerald-500/10 border border-emerald-500/30 text-emerald-400 text-sm font-medium">
               <span className="relative flex h-2 w-2">
@@ -190,26 +190,25 @@ export default function Hero() {
           </div>
 
           {/* ── Right: Profile Photo ── */}
-          <div className="order-1 lg:order-2 flex justify-center lg:justify-end animate-fade-in [animation-delay:200ms]">
+          <div className="order-2 flex justify-center lg:justify-end animate-fade-in [animation-delay:200ms]">
             <div className="relative">
-              {/* Outer glow ring */}
-              <div className="absolute -inset-4 rounded-[28px] bg-gradient-to-br from-cyan-500/30 to-violet-600/30 blur-2xl animate-pulse-glow" />
-              {/* Gradient border frame */}
-              <div className="relative profile-frame rounded-[20px] overflow-hidden shadow-2xl">
-                <div className="absolute inset-0 bg-gradient-to-br from-cyan-500/20 to-violet-600/20 mix-blend-overlay z-10 pointer-events-none rounded-[20px]" />
+              {/* Outer glow ring — circular */}
+              <div className="absolute -inset-6 rounded-full bg-gradient-to-br from-cyan-500/30 to-violet-600/30 blur-2xl animate-pulse-glow" />
+              {/* Circular gradient border frame */}
+              <div className="relative profile-frame rounded-full overflow-hidden shadow-2xl">
                 <Image
                   src="/profile.jpg"
                   alt="Asit Piri — Enterprise AI Strategist"
                   width={480}
                   height={480}
                   priority
-                  className="relative z-0 w-full max-w-[360px] sm:max-w-[420px] lg:max-w-[480px] object-cover rounded-[18px]"
+                  className="relative z-0 w-full max-w-[300px] sm:max-w-[360px] lg:max-w-[420px] object-cover rounded-full aspect-square"
                   style={{ display: "block" }}
                 />
               </div>
 
               {/* Floating badge — IISc */}
-              <div className="absolute -bottom-4 -left-4 glass rounded-xl px-4 py-3 shadow-lg animate-float [animation-delay:1s]">
+              <div className="absolute -bottom-2 -left-6 glass rounded-xl px-4 py-3 shadow-lg animate-float [animation-delay:1s]">
                 <div className="text-xs text-gray-400 leading-none mb-1">Education</div>
                 <div className="text-sm font-semibold text-white leading-none">
                   IISc Deep Learning
@@ -217,7 +216,7 @@ export default function Hero() {
               </div>
 
               {/* Floating badge — years */}
-              <div className="absolute -top-4 -right-4 glass rounded-xl px-4 py-3 shadow-lg animate-float">
+              <div className="absolute -top-2 -right-6 glass rounded-xl px-4 py-3 shadow-lg animate-float">
                 <div className="gradient-text font-display font-bold text-2xl leading-none">
                   25+
                 </div>

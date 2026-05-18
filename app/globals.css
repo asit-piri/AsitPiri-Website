@@ -210,16 +210,17 @@ body {
   transform: translateY(-4px);
 }
 
-/* ── Profile picture frame ── */
+/* ── Profile picture frame (circular) ── */
 .profile-frame {
   position: relative;
   display: inline-block;
+  border-radius: 9999px;
 }
 .profile-frame::before {
   content: "";
   position: absolute;
-  inset: -3px;
-  border-radius: 20px;
+  inset: -4px;
+  border-radius: 9999px;
   background: linear-gradient(135deg, #06b6d4, #8b5cf6, #06b6d4);
   background-size: 200% 200%;
   animation: shimmer 3s linear infinite;
