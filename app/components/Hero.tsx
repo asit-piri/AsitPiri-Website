@@ -9,6 +9,7 @@ import {
   ChevronDown,
   Download,
   BookOpen,
+  Youtube,
 } from "lucide-react";
 
 const ROLES = [
@@ -151,6 +152,15 @@ export default function Hero() {
               >
                 <Github size={16} />
                 <span className="hidden sm:inline">GitHub</span>
+              </a>
+              <a
+                href="https://www.youtube.com/@asitpiri"
+                target="_blank"
+                rel="noopener noreferrer"
+                className="flex items-center gap-2 text-gray-400 hover:text-red-400 transition-colors text-sm"
+              >
+                <Youtube size={16} />
+                <span className="hidden sm:inline">YouTube</span>
               </a>
               <a
                 href="mailto:asit.piri@gmail.com"

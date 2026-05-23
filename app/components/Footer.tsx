@@ -1,4 +1,4 @@
-import { Linkedin, Github, Mail } from "lucide-react";
+import { Linkedin, Github, Youtube, Mail } from "lucide-react";
 
 export default function Footer() {
   const year = new Date().getFullYear();
@@ -41,6 +41,15 @@ export default function Footer() {
               aria-label="GitHub"
             >
               <Github size={17} />
+            </a>
+            <a
+              href="https://www.youtube.com/@asitpiri"
+              target="_blank"
+              rel="noopener noreferrer"
+              className="w-9 h-9 rounded-lg flex items-center justify-center text-gray-500 hover:text-red-400 hover:bg-white/10 transition-all"
+              aria-label="YouTube"
+            >
+              <Youtube size={17} />
             </a>
             <a
               href="mailto:asit.piri@gmail.com"

@@ -6,6 +6,7 @@ import {
   MapPin,
   Linkedin,
   Github,
+  Youtube,
   Send,
   Sparkles,
   ArrowRight,
@@ -51,6 +52,14 @@ const socialLinks = [
     href: "https://github.com/asit-piri",
     color: "from-gray-600 to-gray-800",
     description: "67+ repositories",
+  },
+  {
+    icon: Youtube,
+    label: "YouTube",
+    handle: "youtube.com/@asitpiri",
+    href: "https://www.youtube.com/@asitpiri",
+    color: "from-red-500 to-red-700",
+    description: "AI insights & tutorials",
   },
 ];
 
