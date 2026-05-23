@@ -9,6 +9,7 @@ import {
   ChevronDown,
   Download,
   ArrowRight,
+  BookOpen,
 } from "lucide-react";
 
 const ROLES = [
@@ -143,6 +144,15 @@ export default function Hero() {
                 className="btn-outline"
               >
                 View Projects
+              </a>
+              <a
+                href="https://www.linkedin.com/in/asit-piri/recent-activity/articles/"
+                target="_blank"
+                rel="noopener noreferrer"
+                className="btn-outline"
+              >
+                <BookOpen size={15} />
+                View Articles
               </a>
               <a
                 href="https://www.linkedin.com/in/asit-piri/"
