@@ -72,7 +72,7 @@ export default function Navbar() {
               className="hidden sm:flex items-center gap-2 btn-primary text-sm py-2 px-5"
             >
               <Sparkles size={14} />
-              Hire Me
+              Contact
             </a>
             <button
               className="lg:hidden p-2 rounded-lg text-gray-400 hover:text-white hover:bg-white/10 transition-all"
@@ -105,7 +105,7 @@ export default function Navbar() {
                 className="flex items-center justify-center gap-2 btn-primary w-full"
               >
                 <Sparkles size={14} />
-                Hire Me
+                Contact
               </a>
             </div>
           </div>
