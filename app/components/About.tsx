@@ -165,7 +165,7 @@ export default function About() {
           {/* Stats */}
           <div className={`grid grid-cols-2 gap-4 transition-all duration-700 delay-300 ${inView ? "opacity-100 translate-x-0" : "opacity-0 translate-x-8"}`}>
             {stats.map((s, i) => (
-              <div key={i} className="stat-card group">
+              <div key={i} className="stat-card group flex flex-col items-center justify-center">
                 <div
                   className={`font-display font-bold text-3xl sm:text-4xl bg-gradient-to-br ${s.color} bg-clip-text text-transparent mb-2`}
                 >
@@ -176,7 +176,7 @@ export default function About() {
                     inView={inView}
                   />
                 </div>
-                <div className="text-gray-400 text-sm leading-tight">{s.label}</div>
+                <div className="text-gray-400 text-sm leading-tight text-center">{s.label}</div>
               </div>
             ))}
           </div>

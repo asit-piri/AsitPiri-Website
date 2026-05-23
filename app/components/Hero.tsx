@@ -8,7 +8,6 @@ import {
   MapPin,
   ChevronDown,
   Download,
-  ArrowRight,
   BookOpen,
 } from "lucide-react";
 
@@ -121,18 +120,6 @@ export default function Hero() {
 
             {/* CTA buttons */}
             <div className="flex flex-wrap gap-3">
-              <a
-                href="#contact"
-                onClick={(e) => {
-                  e.preventDefault();
-                  document
-                    .querySelector("#contact")
-                    ?.scrollIntoView({ behavior: "smooth" });
-                }}
-                className="btn-primary"
-              >
-                Hire Me <ArrowRight size={16} />
-              </a>
               <a
                 href="#projects"
                 onClick={(e) => {
