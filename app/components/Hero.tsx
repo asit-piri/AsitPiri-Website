@@ -98,26 +98,6 @@ export default function Hero() {
               strategic investments.
             </p>
 
-            {/* Quick stats */}
-            <div className="flex flex-wrap gap-4">
-              {[
-                { val: "25+", label: "Years" },
-                { val: "$1.8M+", label: "Secured" },
-                { val: "67+", label: "Repos" },
-                { val: "10+", label: "AI Programs" },
-              ].map((s) => (
-                <div
-                  key={s.label}
-                  className="text-center px-4 py-3 rounded-xl bg-white/4 border border-white/8"
-                >
-                  <div className="gradient-text font-display font-bold text-xl leading-none">
-                    {s.val}
-                  </div>
-                  <div className="text-gray-500 text-xs mt-0.5">{s.label}</div>
-                </div>
-              ))}
-            </div>
-
             {/* CTA buttons */}
             <div className="flex flex-wrap gap-3">
               <a
@@ -205,7 +185,7 @@ export default function Hero() {
               </div>
 
               {/* Floating badge — IISc */}
-              <div className="absolute -bottom-2 -left-6 glass rounded-xl px-4 py-3 shadow-lg animate-float [animation-delay:1s]">
+              <div className="absolute -bottom-2 -left-6 z-10 glass rounded-xl px-4 py-3 shadow-lg animate-float [animation-delay:1s]">
                 <div className="text-xs text-gray-400 leading-none mb-1">Education</div>
                 <div className="text-sm font-semibold text-white leading-none">
                   IISc Deep Learning
@@ -213,7 +193,7 @@ export default function Hero() {
               </div>
 
               {/* Floating badge — years */}
-              <div className="absolute -top-2 -right-6 glass rounded-xl px-4 py-3 shadow-lg animate-float">
+              <div className="absolute -top-2 -right-6 z-10 glass rounded-xl px-4 py-3 shadow-lg animate-float">
                 <div className="gradient-text font-display font-bold text-2xl leading-none">
                   25+
                 </div>
